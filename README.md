@@ -2,9 +2,7 @@
 
 Простое React-приложение, демонстрирующее работу компонента `ParamEditor` - редактора параметров с возможностью динамического изменения значений и получения обновленной модели данных.
 
-## Просмотр проекта на GitHub Pages
-
-[Открыть демо-версию](https://your-username.github.io/params-editor-test/)
+### [Просмотр проекта на GitHub Pages](https://gramakovs.github.io/params-editor/)
 
 ## Технологии
 
